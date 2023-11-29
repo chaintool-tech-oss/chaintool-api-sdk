@@ -6,7 +6,7 @@
 
     <groupId>com.chaintool.api.sdk</groupId>
     <artifactId>chaintool-api-sdk</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.20231129</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
